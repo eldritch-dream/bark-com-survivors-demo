@@ -1,4 +1,4 @@
-import{S as e}from"./index-cAzUuhhb.js";import"./logDepthDeclaration-BhpBmwK9.js";import"./helperFunctions-RLb5t4tF.js";const t="prePassDeclaration",A=`#ifdef PREPASS
+import{S as e}from"./index-Ie-dkfYG.js";import"./logDepthDeclaration-BS9G9SEJ.js";import"./helperFunctions-nWNuDHpL.js";const t="prePassDeclaration",A=`#ifdef PREPASS
 #ifdef PREPASS_LOCAL_POSITION
 varying vPosition : vec3f;
 #endif
