@@ -1,0 +1,1 @@
+Owner-supplied MP3 soundtrack. Source titles, provenance and loop handling are documented in docs/ASSETS.md and docs/V031.md. WAV masters are not included. Confirm redistribution rights before publishing. Replacing suburban-incursion.mp3 requires reviewing MUSIC_LOOP_TAILS in src/music.ts.
